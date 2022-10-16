@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xF68bE27e3aa0Af99fB684a165aeE1fFC3cF3F29c",
+  "SCAN_LINK": "https://songbird-explorer.flare.network/address/0xF68bE27e3aa0Af99fB684a165aeE1fFC3cF3F29c",
+  "NETWORK": {
+    "NAME": "Songbird Network",
+    "SYMBOL": "SGB",
+    "ID": 19
+  },
+  "NFT_NAME": "Meta Samurai",
+  "SYMBOL": "Meta Samurai",
+  "MAX_SUPPLY": 5000,
+  "WEI_COST": 300000000000000000000,
+  "DISPLAY_COST": 300,
+  "GAS_LIMIT": 3000000,
+  "MARKETPLACE": "TheNFTBros",
+  "MARKETPLACE_LINK": "https://sparklesnft.com/collection/thenftbros/",
+  "SHOW_BACKGROUND": true
+}
